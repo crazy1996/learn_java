@@ -6,7 +6,7 @@ public class test {
         boolean abc;
         abc = a.equals(b);
         if(a.equals(b)){
-            System.out.println("a==b1");
+            System.out.println("a==b");
         }else {
             System.out.println(a + " " + b);
         }
